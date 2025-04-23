@@ -77,3 +77,5 @@ typing_extensions==4.12.2
 urllib3==2.2.3
 wcwidth==0.2.13
 yarl==1.18.3
+swarm @ git+https://github.com/openai/swarm.git@9db581cecaacea0d46a933d6453c312b034dbf47
+openai-agents==0.0.12
